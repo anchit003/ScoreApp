@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreApp</string>
+    <string name="welcome">WELCOME</string>
+    <string name="team1">TEAM A</string>
+    <string name="team2">TEAM B</string>
+    <string name="bt1">Add 1</string>
+    <string name="bt2">Add 2</string>
+    <string name="bt3">Add 4</string>
+    <string name="bt4">Add 6</string>
+    <string name="rs">RESET</string>
+</resources>
